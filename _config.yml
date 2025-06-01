@@ -2,7 +2,7 @@
 title: Rooted Notes
 description: A living digital garden of essays, reflections, fiction, and evolving thought.
 baseurl: "" # Leave empty if deploying at root (e.g. GitHub Pages)
-url: "https://yourdomain.com" # Update this if using custom domain or GitHub Pages
+url: "https://tmraff.github.io/rooted-notes/" # Update this if using custom domain or GitHub Pages
 
 # Author info
 author:
