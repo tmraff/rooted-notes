@@ -1,0 +1,102 @@
+# Site settings
+title: Rooted Notes
+description: A living digital garden of essays, reflections, fiction, and evolving thought.
+baseurl: "" # Leave empty if deploying at root (e.g. GitHub Pages)
+url: "https://yourdomain.com" # Update this if using custom domain or GitHub Pages
+
+# Author info
+author:
+  name: Tristan Rafferty
+  email: your@email.com
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Permalink structure for _posts
+permalink: /posts/:year/:month/:day/:title/
+
+# Collections
+collections:
+  essays:
+    output: true
+    permalink: /essays/:name/
+  fiction:
+    output: true
+    permalink: /fiction/:name/
+  seasons:
+    output: true
+    permalink: /seasons/:name/
+  templates:
+    output: true
+    permalink: /templates/:name/
+
+# Include these folders when building the site
+include:
+  - _essays
+  - _fiction
+  - _seasons
+  - _templates
+
+# Exclude these from the output folder (_site/)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+
+# Minima theme options (customise as you like)
+minima:
+  social_links:
+    github: tmraff
+    email: your@email.com
+
+  navigation:
+    - title: Essays
+      url: /essays/
+    - title: Fiction
+      url: /fiction/
+    - title: Seasons
+      url: /seasons/
+    - title: Templates
+      url: /templates/
+    - title: About
+      url: /about/
+    - title: Licensing & Sharing
+      url: /license/
+
+# Future and drafts settings (optional for development)
+future: true
+show_drafts: false
+
+# Defaults (optional: helps reduce front matter repetition)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "_essays"
+      type: "essays"
+    values:
+      layout: "post"
+  - scope:
+      path: "_fiction"
+      type: "fiction"
+    values:
+      layout: "post"
+  - scope:
+      path: "_seasons"
+      type: "seasons"
+    values:
+      layout: "page"
+  - scope:
+      path: "_templates"
+      type: "templates"
+    values:
+      layout: "page"
