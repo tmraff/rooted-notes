@@ -10,7 +10,7 @@ author:
   email: tristan.rafferty@proton.me
 
 # Theme
-theme: jekyll-theme-minima
+theme: minima
 
 # Build settings
 markdown: kramdown
