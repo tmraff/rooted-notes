@@ -7,10 +7,10 @@ url: "https://yourdomain.com" # Update this if using custom domain or GitHub Pag
 # Author info
 author:
   name: Tristan Rafferty
-  email: your@email.com
+  email: tristan.rafferty@proton.me
 
 # Theme
-theme: minima
+theme: jekyll-theme-minima
 
 # Build settings
 markdown: kramdown

@@ -24,7 +24,7 @@ I am an artist, writer, and perennial learner. I currently work as a part-time z
 
 # Talk to me
 
-Rooted Notes doesn’t use a public comment system. If you'd like to share your thoughts, you’re welcome to email me at {email address}.
+Rooted Notes doesn’t use a public comment system. If you'd like to share your thoughts, you’re welcome to email me at tristan.rafferty@proton.me.
 
 # Support Rooted Notes
 
