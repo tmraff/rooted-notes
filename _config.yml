@@ -54,20 +54,6 @@ minima:
     github: tmraff
     email: tristan.rafferty@proton.me 
 
-  header_pages:
-    - title: Essays
-      url: /essays/
-    - title: Fiction
-      url: /fiction/
-    - title: Seasons
-      url: /seasons/
-    - title: Templates
-      url: /templates/
-    - title: About
-      url: /about/
-    - title: Licensing & Sharing
-      url: /license/
-
 # Future and drafts settings (optional for development)
 future: true
 show_drafts: false

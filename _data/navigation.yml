@@ -1,0 +1,13 @@
+main:
+    - title: Essays
+      url: /essays/
+    - title: Fiction
+      url: /fiction/
+    - title: Seasons
+      url: /seasons/
+    - title: Templates
+      url: /templates/
+    - title: About
+      url: /about/
+    - title: Licensing & Sharing
+      url: /license/
