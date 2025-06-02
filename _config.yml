@@ -54,7 +54,7 @@ minima:
     github: tmraff
     email: tristan.rafferty@proton.me 
 
-  nav_pages:
+nav_pages:
   - index.md
   - about.md
   - garden-map.md
