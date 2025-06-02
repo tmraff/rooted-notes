@@ -54,7 +54,7 @@ minima:
     github: tmraff
     email: tristan.rafferty@proton.me 
 
-  navigation:
+  nav_pages:
     - title: Essays
       url: /essays/
     - title: Fiction
