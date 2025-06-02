@@ -7,9 +7,9 @@ tags:
   - wildflowers
 permalink: /seasons/2025-simmer/
 excerpt_separator: <!--more-->
+image: /assets/img/2025-06-01-simmer-banner.webp
 created: 2025-05-30-20:56
 updated: 2025-06-02-10:14
-nav_exclude: true
 ---
 
 # Exhibition No. 1 – Simmer 2025  
@@ -102,12 +102,15 @@ I’m also trying to find meaning again after having organ damage. Feeling norma
 ## Quotes and Seeds
 
 > They didn’t understand it, but like so many unfortunate events in life, just because you don’t understand it doesn’t mean it isn’t so.
+>
 > Lemony Snicket, *The Bad Beginning*
 
 > In a darkened theatre, our compulsory gaze is in reflexive sympathy with the camera’s interests and our pleasure stirred by the human forms onscreen, some of whom seem posed for our perusal.
+>
 > Lauren Michele Jackson, *The Invention of “The Male Gaze”*
 
 > The problem wasn’t anything he had done. That Victor was sure of. He was being thwarted. God was just not going to give in without a fight. At least it did confirm that he, Victor Hoppe, was on the right track, because God would never have put up such a fight otherwise.
+>
 > Stefan Brijs, *The Angel Maker*
 
 - The eroticism of someone slicing your palm open for a blood offering. There’s a tenderness. A trust. An intimacy. You’re letting someone else slice through your layers. You’re trusting them with your pain. The blood beads ruby along the cut.

@@ -27,7 +27,7 @@ collections:
     output: true
     permalink: /fiction/:name/
   seasons:
-    output: true
+    output: false
     permalink: /seasons/:name/
   templates:
     output: true
@@ -54,14 +54,13 @@ minima:
     github: tmraff
     email: tristan.rafferty@proton.me 
 
-nav_pages:
-  - index.md
-  - about.md
+header_pages:
   - garden-map.md
+  - essays.md
+  - fiction.md
+  - seasons.md
+  - about.md
   - license.md
-  - _essays/essays.md
-  - _fiction/fiction.md
-  - _seasons/seasons.md
 
 # Future and drafts settings (optional for development)
 future: true
@@ -88,9 +87,9 @@ defaults:
       path: "_seasons"
       type: "seasons"
     values:
-      layout: "page"
+      layout: "post"
   - scope:
       path: "_templates"
       type: "templates"
     values:
-      layout: "page"
+      layout: "post"

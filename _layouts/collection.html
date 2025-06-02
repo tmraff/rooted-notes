@@ -13,7 +13,7 @@ layout: default
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
-    {% assign posts = site[page.collection] %}
+    {% assign posts = site[page.collection] | where_exp: "item", "item.visible != false" %}
   {% endif %}
 
 

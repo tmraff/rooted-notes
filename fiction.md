@@ -2,7 +2,7 @@
 layout: collection
 title: Fiction
 collection: fiction
-permalink: /fiction/
+permalink: /fiction-collection/
 ---
 
 # Fiction

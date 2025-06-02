@@ -2,7 +2,8 @@
 layout: collection
 title: Seasons
 collection: seasons
-permalink: /seasons/
+visible: true
+permalink: /seasons-collection/
 ---
 
 # Seasons
