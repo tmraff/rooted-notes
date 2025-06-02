@@ -12,8 +12,8 @@ You are welcome to wander.
 
 # Start Exploring
 
-- [Garden Map](rooted-notes/garden-map) - a loose overview of how it's all structured
-- [Essays](rooted-notes/essays) - arguments, observations, philosophical inquiries
-- [Fiction](rooted-notes/fiction) - weird horror, strange devotion, queer magic
-- [Seasons](rooted-notes/seasons) - what I'm working on, reading, growing
-- [Templates](rooted-notes/templates) - free reusable markdown structures for digital gardening
+- [Garden Map](/garden-map/) - a loose overview of how it's all structured
+- [Essays](/essays/) - arguments, observations, philosophical inquiries
+- [Fiction](/fiction/) - weird horror, strange devotion, queer magic
+- [Seasons](/seasons/) - what I'm working on, reading, growing
+- [Templates](/templates/) - free reusable markdown structures for digital gardening
