@@ -54,6 +54,15 @@ minima:
     github: tmraff
     email: tristan.rafferty@proton.me 
 
+  nav_pages:
+  - index.md
+  - about.md
+  - garden-map.md
+  - license.md
+  - _essays/essays.md
+  - _fiction/fiction.md
+  - _seasons/seasons.md
+
 # Future and drafts settings (optional for development)
 future: true
 show_drafts: false
