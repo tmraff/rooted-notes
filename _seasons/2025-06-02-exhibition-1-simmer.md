@@ -1,6 +1,6 @@
 ---
 title: Exhibition No. 1 – Simmer 2025
-date: 2025-05-31
+date: 2025-06-01
 layout: post
 collection: seasons
 tags:
@@ -9,6 +9,7 @@ permalink: /seasons/2025-simmer/
 excerpt_separator: <!--more-->
 created: 2025-05-30-20:56
 updated: 2025-06-02-10:14
+nav_exclude: true
 ---
 
 # Exhibition No. 1 – Simmer 2025  

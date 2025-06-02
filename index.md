@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Rooted Notes
 layout: home
+nav_exclude: true
 permalink: /
 ---
 
