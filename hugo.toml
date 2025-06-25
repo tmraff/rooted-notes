@@ -1,0 +1,74 @@
+baseURL = 'https://tmraff.github.io/rooted-notes/'
+languageCode = 'en-gb'
+title = 'Rooted Notes'
+theme  = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+author = 'Tristan Rafferty'
+description = 'A living archive of thoughts'
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Homepage intro
+homeIntroTitle = 'Rooted Notes'
+homeIntroContent = """
+Rooted Notes is a living archive of thoughts, essays, experiments, and arguments. It is a place for ideas to grow, sprawl, and occasionally bloom.
+
+You are welcome to wander.
+"""
+
+# Home collection
+homeCollectionTitle = 'Recently Tended'
+homeCollection = 'posts'
+
+# Pagination and list display
+  paginationSize = 10
+  listSummaries = true
+  listDateFormat = '2 January 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = 'Root'
+
+# Main menu
+[[params.menu]]
+name = 'Garden Map'
+url = 'garden-map'
+
+[[params.menu]]
+name = 'Essays'
+url = 'essays'
+
+[[params.menu]]
+name = 'Fiction'
+url = 'fiction'
+
+[[params.menu]]
+name = 'Seasons'
+url = 'seasons'
+
+[[params.menu]]
+name = 'Templates'
+url = 'templates'
+
+[[params.menu]]
+name = 'About'
+url = 'about'
+
+[[params.menu]]
+name = 'License'
+url = 'license'
+
+# Syntax highlighting
+[markup]
+[markup.highlight]
+style = "algol"
+lineNos = true
