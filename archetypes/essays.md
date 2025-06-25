@@ -1,10 +1,11 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-tags: []
-summary: ""
-draft: true
----
++++
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
+tags = []
+summary = ""
+draft = true
++++
+
 # {{ replace .Name "-" " " | title }}
 
 <!--more-->

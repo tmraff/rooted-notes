@@ -10,7 +10,7 @@ date = '2025-06-03T19:02:33+01:00'
 title = 'About'
 description = 'About Rooted Notes and its author'
 tags = []
-draft = true
+draft = false
 +++
 
 # About Rooted Notes

@@ -1,11 +1,12 @@
----
-title: "Exhibition No. number – season {{ .Date | dateFormat \"2006\" }}"
-date: {{ .Date }}
-tags: []
-summary: "A seasonal exhibition curated by Tristan Rafferty"
-draft: true
----
-# Exhibition No. number - season {{ .Date | dateFormat \"2006\" }}
++++
+title = "Exhibition No. number – season {{ .Date | dateFormat "2006" }}"
+date = {{ .Date }}
+tags = []
+summary = "A seasonal exhibition curated by Tristan Rafferty"
+draft = true
++++
+
+# Exhibition No. number - season {{ .Date | dateFormat "2006" }}
 
 *A seasonal exhibition curated by Tristan Rafferty*
 
