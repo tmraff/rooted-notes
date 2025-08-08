@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rooted Notes</title>
-    <link>http://localhost:1313/rooted-notes/tags/</link>
+    <link>https://tmraff.github.io/rooted-notes/tags/</link>
     <description>Recent content in Tags on Rooted Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 25 Jun 2025 22:29:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/rooted-notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tmraff.github.io/rooted-notes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wildflowers</title>
-      <link>http://localhost:1313/rooted-notes/tags/wildflowers/</link>
+      <link>https://tmraff.github.io/rooted-notes/tags/wildflowers/</link>
       <pubDate>Wed, 25 Jun 2025 22:29:37 +0100</pubDate>
-      <guid>http://localhost:1313/rooted-notes/tags/wildflowers/</guid>
+      <guid>https://tmraff.github.io/rooted-notes/tags/wildflowers/</guid>
       <description></description>
     </item>
   </channel>

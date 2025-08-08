@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Rooted Notes</title>
-    <link>http://localhost:1313/rooted-notes/</link>
+    <link>https://tmraff.github.io/rooted-notes/</link>
     <description>Recent content in Home on Rooted Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 25 Jun 2025 22:29:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/rooted-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jun 2025 22:44:06 +0100</lastBuildDate>
+    <atom:link href="https://tmraff.github.io/rooted-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Are What You Leak</title>
+      <link>https://tmraff.github.io/rooted-notes/essays/2025-06-25-you-are-what-you-leak/</link>
+      <pubDate>Wed, 25 Jun 2025 22:44:06 +0100</pubDate>
+      <guid>https://tmraff.github.io/rooted-notes/essays/2025-06-25-you-are-what-you-leak/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;you-are-what-you-leak&#34;&gt;&#xA;  You Are What You Leak&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#you-are-what-you-leak&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I recently read &lt;em&gt;Story of the Eye&lt;/em&gt; by Georges Bataille. It was 1 AM, which is only second to 3 AM in terms of the worst time to make decisions. And oh boy was this a decision.&lt;/p&gt;&#xA;&lt;p&gt;This is a first draft, posted because praxis innit.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Exhibition No. 1 – Season 2025</title>
-      <link>http://localhost:1313/rooted-notes/seasons/2025-simmer/</link>
+      <link>https://tmraff.github.io/rooted-notes/seasons/2025-simmer/</link>
       <pubDate>Wed, 25 Jun 2025 22:29:37 +0100</pubDate>
-      <guid>http://localhost:1313/rooted-notes/seasons/2025-simmer/</guid>
+      <guid>https://tmraff.github.io/rooted-notes/seasons/2025-simmer/</guid>
       <description>&lt;h1 class=&#34;heading&#34; id=&#34;exhibition-no-1--simmer-2025&#34;&gt;&#xA;  Exhibition No. 1 – Simmer 2025&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exhibition-no-1--simmer-2025&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;A seasonal exhibition curated by Tristan Rafferty&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sun circles the sky instead of setting. The trowies are trapped in their knowes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>License &amp; Sharing </title>
-      <link>http://localhost:1313/rooted-notes/license/</link>
+      <link>https://tmraff.github.io/rooted-notes/license/</link>
       <pubDate>Wed, 25 Jun 2025 22:10:19 +0100</pubDate>
-      <guid>http://localhost:1313/rooted-notes/license/</guid>
+      <guid>https://tmraff.github.io/rooted-notes/license/</guid>
       <description>&lt;h1 class=&#34;heading&#34; id=&#34;license--sharing&#34;&gt;&#xA;  License &amp;amp; Sharing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#license--sharing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Everything in Rooted Notes is shared under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).&lt;/p&gt;&#xA;&lt;p&gt;This means that you are free to share, remix, adapt, and build upon my work — even for commercial purposes — as long as you credit me and share your own work under the same license.&lt;/p&gt;&#xA;&lt;p&gt;I believe information thrives when it is allowed to grow wild. This is my invitation: take what you need, make something new, and pass it on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/rooted-notes/about/</link>
+      <link>https://tmraff.github.io/rooted-notes/about/</link>
       <pubDate>Tue, 03 Jun 2025 19:02:33 +0100</pubDate>
-      <guid>http://localhost:1313/rooted-notes/about/</guid>
+      <guid>https://tmraff.github.io/rooted-notes/about/</guid>
       <description>&lt;h1 class=&#34;heading&#34; id=&#34;about-rooted-notes&#34;&gt;&#xA;  About Rooted Notes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about-rooted-notes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Rooted Notes is a living archive of thoughts, essays, experiments, and arguments. It is a place for ideas to grow, sprawl, and occasionally bloom.&lt;/p&gt;&#xA;&lt;p&gt;This space exists to share thought in motion. There is a cultural expectation that ideas must be final and unchanging — that to grow is to betray oneself.&lt;/p&gt;&#xA;&lt;p&gt;I reject this philosophy. We should be given a place to learn and transform without judgement for that which we no longer believe. We deserve an archive of curiosity and inquiry rather than certainty. Rooted Notes is my quiet resistance: a space where thought is allowed to move, to doubt, and to flower.&lt;/p&gt;</description>
     </item>
   </channel>

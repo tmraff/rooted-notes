@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/rooted-notes/essays/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/essays/</loc>
     <lastmod>2025-06-25T22:44:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/</loc>
     <lastmod>2025-06-25T22:44:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/seasons/2025-simmer/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/essays/2025-06-25-you-are-what-you-leak/</loc>
+    <lastmod>2025-06-25T22:44:06+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/seasons/2025-simmer/</loc>
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/seasons/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/seasons/</loc>
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/tags/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/tags/</loc>
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/tags/wildflowers/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/tags/wildflowers/</loc>
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/license/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/license/</loc>
     <lastmod>2025-06-25T22:10:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rooted-notes/about/</loc>
+    <loc>https://tmraff.github.io/rooted-notes/about/</loc>
     <lastmod>2025-06-03T19:02:33+01:00</lastmod>
   </url>
 </urlset>
