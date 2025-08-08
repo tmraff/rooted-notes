@@ -10,6 +10,10 @@ tag = 'tags'
 author = 'Tristan Rafferty'
 description = 'A living archive of thoughts'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Appearance settings
 theme = 'auto'
 colorPalette = 'default'
