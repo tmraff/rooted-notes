@@ -1,0 +1,14 @@
+{{/* recent_items: accepts EITHER positional OR named params
+     Positional: {{< recent_items 5 "essays,fiction,seasons" >}}
+     Named:      {{< recent_items n=5 sections="essays,fiction,seasons" >}} */}}
+
+{{- $n := (cond (.IsNamedParams) (.Get "n") (.Get 0)) | default 5 | int -}}
+{{- $secstr := (cond (.IsNamedParams) (.Get "sections") (.Get 1)) | default "essays,fiction,seasons" -}}
+{{- $sections := split $secstr "," -}}
+
+{{- range first $n (where .Site.RegularPages "Section" "in" $sections) -}}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+{{- end -}}
+

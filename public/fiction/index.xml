@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wildflowers on Rooted Notes</title>
-    <link>https://tmraff.github.io/rooted-notes/tags/wildflowers/</link>
-    <description>Recent content in Wildflowers on Rooted Notes</description>
+    <title>Fictions on Rooted Notes</title>
+    <link>https://tmraff.github.io/rooted-notes/fiction/</link>
+    <description>Recent content in Fictions on Rooted Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 19 Sep 2025 17:30:19 +0100</lastBuildDate>
-    <atom:link href="https://tmraff.github.io/rooted-notes/tags/wildflowers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tmraff.github.io/rooted-notes/fiction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Worm Enters Through the Shoulder</title>
       <link>https://tmraff.github.io/rooted-notes/fiction/2025-09-19-the-worm-enters-through-the-shoulder/</link>
       <pubDate>Fri, 19 Sep 2025 17:30:19 +0100</pubDate>
       <guid>https://tmraff.github.io/rooted-notes/fiction/2025-09-19-the-worm-enters-through-the-shoulder/</guid>
       <description>&lt;h1 class=&#34;heading&#34; id=&#34;the-worm-enters-through-the-shoulder&#34;&gt;&#xA;  The Worm Enters Through the Shoulder&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-worm-enters-through-the-shoulder&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;content-warnings&#34;&gt;&#xA;  Content Warnings&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#content-warnings&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Erotic body horror&lt;/li&gt;&#xA;&lt;li&gt;Implied non-consent&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Exhibition No. 1 – Season 2025</title>
-      <link>https://tmraff.github.io/rooted-notes/seasons/2025-simmer/</link>
-      <pubDate>Wed, 25 Jun 2025 22:29:37 +0100</pubDate>
-      <guid>https://tmraff.github.io/rooted-notes/seasons/2025-simmer/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;exhibition-no-1--simmer-2025&#34;&gt;&#xA;  Exhibition No. 1 – Simmer 2025&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exhibition-no-1--simmer-2025&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;A seasonal exhibition curated by Tristan Rafferty&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sun circles the sky instead of setting. The trowies are trapped in their knowes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tmraff.github.io/rooted-notes/essays/</loc>
-    <lastmod>2025-06-25T22:44:06+01:00</lastmod>
-  </url><url>
     <loc>https://tmraff.github.io/rooted-notes/</loc>
+    <lastmod>2025-09-19T18:34:33+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/fiction/</loc>
+    <lastmod>2025-09-19T17:30:19+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/tags/nsfw/</loc>
+    <lastmod>2025-09-19T17:30:19+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/tags/</loc>
+    <lastmod>2025-09-19T17:30:19+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/fiction/2025-09-19-the-worm-enters-through-the-shoulder/</loc>
+    <lastmod>2025-09-19T17:30:19+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/tags/wildflowers/</loc>
+    <lastmod>2025-09-19T17:30:19+01:00</lastmod>
+  </url><url>
+    <loc>https://tmraff.github.io/rooted-notes/essays/</loc>
     <lastmod>2025-06-25T22:44:06+01:00</lastmod>
   </url><url>
     <loc>https://tmraff.github.io/rooted-notes/essays/2025-06-25-you-are-what-you-leak/</loc>
@@ -15,12 +30,6 @@
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
     <loc>https://tmraff.github.io/rooted-notes/seasons/</loc>
-    <lastmod>2025-06-25T22:29:37+01:00</lastmod>
-  </url><url>
-    <loc>https://tmraff.github.io/rooted-notes/tags/</loc>
-    <lastmod>2025-06-25T22:29:37+01:00</lastmod>
-  </url><url>
-    <loc>https://tmraff.github.io/rooted-notes/tags/wildflowers/</loc>
     <lastmod>2025-06-25T22:29:37+01:00</lastmod>
   </url><url>
     <loc>https://tmraff.github.io/rooted-notes/license/</loc>
