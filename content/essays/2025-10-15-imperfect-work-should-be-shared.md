@@ -10,7 +10,7 @@ date = '2025-10-05T13:47:20+01:00'
 title = '2025-10-05 Imperfect Work Should Be Shared'
 description = 'An imperfect essaylet on sharing unfinished work'
 tags = ["shoots"]
-draft = true
+draft = false
 +++
 
 I keep finding myself thinking about how and why we share work. Or, more accurately, why we choose not to share the work we produce.
